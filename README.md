@@ -1,8 +1,5 @@
-<div style="background-color: #222; border-radius: 2px; padding: 10px;">
-  <p align="center">
-    <img src="https://bchhar-img--brendanc8.repl.co/img.jpeg" style="border-radius: 25px;" />
-  </p>
 
+  <h1 align="center" style="color: white;">Hello there! 👋 I'm Brendan, a Mechatronics Engineering student from the University of Waterloo.</h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/brendan-chharawala/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -11,8 +8,6 @@
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
     </a>
   </p>
-
-  <h1 align="center" style="color: white;">Hello there! 👋 I'm Brendan, a Mechatronics Engineering student from the University of Waterloo.</h1>
 
   <h3 align="left" style="color: white;">👩‍💻  About Me</h3>
 
