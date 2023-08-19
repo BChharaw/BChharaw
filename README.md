@@ -15,7 +15,7 @@
     Welcome to my profile! I'm a passionate Mechatronics Engineering student at the esteemed University of Waterloo. 🚀<br>
     - 🧠 I'm a Machine Learning and Robotics Developer 🤖<br>
     - ⚡ When I'm not studying, I'm busy building robots and innovative gizmos. 🛠️<br>
-    - 💻 Explore my website: [bchharaw.github.io](https://bchharaw.github.io/#/)<br>
+    - 💻 Explore my website: <a href="https://bchharaw.github.io/#/" target="_blank">https://bchharaw.github.io/#/</a><br>
     - 🌌 My universe revolves around machine learning, computer vision, and more. I'm well-versed in Python and skilled with libraries like TensorFlow, PyTorch, OpenCV, and Isaac Gym. 📊🤖👾<br>
   </p>
 
@@ -44,7 +44,6 @@
   </div>
 
   <h3 align="left" style="color: white;">🔥 My Stats :</h3>
-
   <p align="center ">
     <img src="https://streak-stats.demolab.com?user=BChharaw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" style="border-radius: 25px;" alt="streak graph" />
   </p>
