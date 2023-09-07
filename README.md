@@ -12,7 +12,7 @@
   <h3 align="left" style="color: white;">👩‍💻  About Me</h3>
 
   <p style="color: white;">
-    Welcome to my profile! I'm a passionate Mechatronics Engineering student at the esteemed University of Waterloo. 🚀<br>
+    Welcome to my profile! I'm a Mechatronics Engineering student at the University of Waterloo. 🚀<br>
     - 🧠 I'm a Machine Learning and Robotics Developer 🤖<br>
     - ⚡ When I'm not studying, I'm busy building robots and innovative gizmos. 🛠️<br>
     - 💻 Explore my website: <a href="https://bchharaw.github.io/#/" target="_blank">https://bchharaw.github.io/#/</a><br>
