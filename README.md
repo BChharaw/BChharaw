@@ -1,53 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brendan's GitHub Readme</title>
-  <style>
-    body {
-      background-color: #ffffff;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      color: black;
-    }
-    h1 {
-      color: black;
-    }
-    .contact-links {
-      margin-top: 20px;
-    }
-    .contact-links a {
-      margin: 0 10px;
-      text-decoration: none;
-    }
-    .about-me {
-      text-align: left;
-    }
-    .about-me p {
-      color: black;
-    }
-    .skills {
-      margin-top: 20px;
-      text-align: left;
-    }
-    .skills img {
-      margin-right: 10px;
-    }
-    .stats {
-      margin-top: 20px;
-      text-align: left;
-    }
-    .stats img {
-      border-radius: 25px;
-    }
-  </style>
-</head>
 <body>
   <h1>Hello there! 👋 I'm Brendan, a Mechatronics Engineering student from the University of Waterloo.</h1>
   <div class="contact-links">
-    <a href="https://www.linkedin.com/in/brendan-chharawala/" target="_blank">LinkedIn</a>
-    <a href="mailto:brendancmechatronics@gmail.com" target="_blank">Email: brendancmechatronics@gmail.com</a>
+    LinkedIn: <a href="https://www.linkedin.com/in/brendan-chharawala/" target="_blank">/in/brendan-chharawala</a><br><br>
+    Email: <a href="mailto:brendancmechatronics@gmail.com" target="_blank">brendancmechatronics@gmail.com</a>
   </div>
 
   <h3 class="about-me">About Me</h3>
