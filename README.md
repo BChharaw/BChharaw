@@ -2,7 +2,6 @@
   <h1>Hello there! I'm Brendan, a Mechatronics Engineering student from the University of Waterloo.</h1>
   <div class="contact-links">
     LinkedIn: <a href="https://www.linkedin.com/in/brendan-chharawala/" target="_blank">/in/brendan-chharawala</a><br><br>
-    Email: <a href="mailto:brendancmechatronics@gmail.com" target="_blank">brendancmechatronics@gmail.com</a>
   </div>
 
   <h3 class="about-me">About Me</h3>
