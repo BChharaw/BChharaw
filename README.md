@@ -1,7 +1,7 @@
 <body>
   <h1>Hello there! I'm Brendan, a Mechatronics Engineering student from the University of Waterloo.</h1>
   <div class="contact-links">
-    LinkedIn: <a href="https://www.linkedin.com/in/bchharawala/" target="_blank">/in/brendan-chharawala</a><br><br>
+    LinkedIn: <a href="https://www.linkedin.com/in/bchharawala/" target="_blank">/in/bchharawala</a><br><br>
   </div>
 
   <h3 class="about-me">About Me</h3>
